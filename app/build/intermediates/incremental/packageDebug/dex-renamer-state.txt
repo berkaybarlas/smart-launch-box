@@ -1,0 +1,7 @@
+#Sun Dec 31 17:58:28 EET 2017
+base.0=C\:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0195c2ed7c83312a93458b84bfe52ca22f7cc571
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4c72e2c6fd31e45957e5b8efdfb06308f6e5f16\\classes.dex
+base.1=C\:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4c72e2c6fd31e45957e5b8efdfb06308f6e5f16
+file.0=C\:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0195c2ed7c83312a93458b84bfe52ca22f7cc571\\classes.dex

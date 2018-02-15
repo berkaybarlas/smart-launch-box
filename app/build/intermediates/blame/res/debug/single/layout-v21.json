@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Eralp\\.android\\build-cache\\fa1eb84d40329955625b9d316ba2892e8ca06f99\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Eralp\\.android\\build-cache\\fa1eb84d40329955625b9d316ba2892e8ca06f99\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Eralp\\.android\\build-cache\\fa1eb84d40329955625b9d316ba2892e8ca06f99\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\dev\\android\\workspace\\UltimateLunchbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Eralp\\.android\\build-cache\\fa1eb84d40329955625b9d316ba2892e8ca06f99\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
