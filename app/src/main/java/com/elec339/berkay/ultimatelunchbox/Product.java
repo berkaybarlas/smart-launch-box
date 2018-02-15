@@ -1,4 +1,4 @@
-package com.elec339.eralp.ultimatelunchbox;
+package com.elec339.berkay.ultimatelunchbox;
 
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBAttribute;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBHashKey;
