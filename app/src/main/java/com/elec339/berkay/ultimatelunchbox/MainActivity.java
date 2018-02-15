@@ -1,4 +1,4 @@
-package com.elec339.eralp.ultimatelunchbox;
+package com.elec339.berkay.ultimatelunchbox;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
